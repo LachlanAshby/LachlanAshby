@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LachlanAshby
 - 👀 I’m interested in HTML, CSS/SCSS, JS, C# and C++.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
